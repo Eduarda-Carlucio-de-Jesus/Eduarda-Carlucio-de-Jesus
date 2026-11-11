@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Aprendendo, desenvolvendo com criatividade e transformando ideias em soluções por meio da tecnologia.
+  Explorando a tecnologia, transformando curiosidade em conhecimento e conhecimento em projetos.
 </p>
 
 ---
@@ -14,33 +14,38 @@
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Interessada em Desenvolvimento Full Stack.
-- 🌱 Atualmente estudando C, Java e C#.
+- 🌱 Atualmente estudando C#, C, Java, SQL, JavaScript e HTML5.
+- 🔭 Tenho interesse em Python, TypeScript, SQL e AWS.
 - 📚 Desenvolvendo conhecimentos em lógica de programação e desenvolvimento de software.
-- 🎯 Meu objetivo é construir aplicações, resolver problemas e evoluir continuamente.
+- 🎯 Meu objetivo é construir aplicações, resolver problemas e evoluir continuamente como desenvolvedora.
 
 ### Tecnologias e ferramentas
 
 **Atualmente estudando:**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-**Próximas tecnologias que pretendo explorar:**
+**Tenho interesse em:**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=black" />
 </p>
 
 ### Projetos
 
 #### 🐰 Bunny Planner
 
-Planejador de tarefas desktop feito em Java (Swing), com interface totalmente desenhada por código.
+Planejador de tarefas desktop feito em **Java (Swing)**, com interface totalmente desenhada por código.
 
 - Cadastro e login de usuários, com senha protegida por hash (PBKDF2).
 - Tarefas com categorias, datas e opção de marcar como concluída.
@@ -60,5 +65,5 @@ Em breve, novos projetos estarão disponíveis!
 ---
 
 <p align="center">
-  <i>Sempre aprendendo. Sempre desenvolvendo com criatividade e ética. Sempre evoluindo e adquirindo habilidades.</i>
+  <i>Um passo de cada vez, uma linha de código por vez</i>
 </p>
